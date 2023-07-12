@@ -1,8 +1,7 @@
 
 # *Saudações a todos👋🏼*
 
-![Ia img](image-1.png)
-
+![Alt text](image-1.png)
 
 ### <kbd>Sou Pedro Cézar e estou iniciando minha carreira como programador 🙇🏻</kbd>
 
@@ -39,7 +38,7 @@ ___
 
 [![contato](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/kzary) [![contato](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ary-Pedro
 ) [![contato](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/dashboard) 
-[![Alt text](image.png)](https://www.frontendmentor.io/profile/Ary-Pedro) [![Alt text](image-3.png)](https://www.devchallenge.com.br/challenges?type=frontend)
+[![Alt text](image.png)](https://www.frontendmentor.io/profile/Ary-Pedro) [![Alt text](image-2.png)](https://www.devchallenge.com.br/challenges?type=frontend)
 
 
 
