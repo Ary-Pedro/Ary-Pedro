@@ -17,7 +17,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="#meusite"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 ![](https://visitcount.itsvg.in/api?id=Ary-Pedro&label=Visitantes%20-%20GitHub&color=11&icon=5&pretty=true)
 
 <!-- Cards vinculados : https://shields.io/badges --->
