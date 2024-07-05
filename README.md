@@ -112,7 +112,6 @@
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a> 
       <a href="#"><img alt="langchain" src="https://img.shields.io/badge/Langchain-111111?logo=langchain&logoColor=white"></a>
-      <a href="#"><img alt="olhama meta" src="https://img.shields.io/badge/olhama meta-08217A?logo=meta&logoColor=white"></a>
 
 
 </p>
@@ -143,6 +142,7 @@
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img alt="olhama meta" src="https://img.shields.io/badge/olhama meta-08217A?logo=meta&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
