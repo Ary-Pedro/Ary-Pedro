@@ -129,7 +129,6 @@
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="Cloud" src="https://img.shields.io/badge/Cloud-68217A.svg?logo=Cloudways&logoColor=white"></a>
       <a href="#"><img alt="Aws" src="https://img.shields.io/badge/AWS-F05000.svg?logo=amazonwebservices&logoColor=white"></a>
       <a href="#"><img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-430098.svg?logo=coreldraw&logoColor=white"></a>
