@@ -190,20 +190,25 @@
 
 <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens presentes nos meus projetos públicos e não refletem necessariamente o nível de experiência ou habilidade.
 
-<!-- Gráfico de atividade do GitHub -->
-<a href="https://github.com/Ary-Pedro"><img alt="Gráfico de Atividade de Ary-Pedro" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ary-Pedro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 <h3>📊 Contribuições no Último Ano</h3>
 
 <a href="https://github.com/Ary-Pedro"><img alt="Snake Game" src="https://github-readme-streak-stats.herokuapp.com/?user=Ary-Pedro&theme=dracula&hide_border=true" /></a>
+
+<!--- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid --->
+<p align="center">
+  <img src="https://github.com/Ary-Pedro/Ary-Pedro/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+<h2> Gráfico de atividade do GitHub </h2>
+<a href="https://github.com/Ary-Pedro"><img alt="Gráfico de Atividade de Ary-Pedro" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ary-Pedro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 
 
 
-<p align="center">
-  <img src="https://github.com/Ary-Pedro/Ary-Pedro/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+
 
 
 ### Github Profile Views
