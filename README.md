@@ -1,5 +1,4 @@
 <p align="center">
-  <a  href="https://github.com/Ary-Pedro">
   <img src="https://raw.githubusercontent.com/Ary-Pedro/svg/refs/heads/main/assets/name.svg?token=GHSAT0AAAAAAC3H2VNJYL7NRVVZUHZ5ULBYZ5E2RMA">
 
 <!-- credit for Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -7,7 +6,7 @@
 <div style="text-align: center;">
 <img  style="display: inline-block; max-width: 100%; height: auto;" src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F78A8A&vCenter=true&random=false&width=435&lines=Sauda%C3%A7%C3%B5es+a+todos%F0%9F%91%8B%F0%9F%8F%BC;2+anos+de+experi%C3%AAncia+com+c%C3%B3digos+;Almejo+ser+um+Full-Stack+web;Sempre+aprendendo+coisas+novas;Sou+aluno+de+5%C2%B0+per%C3%ADodo+de+Sistema" alt="Typing SVG" />
 </div>
-</a> 
+
 
 <br>
 
