@@ -194,3 +194,5 @@
 
 </details>
 
+### Github Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{Ary-Pedro}/count.svg)
