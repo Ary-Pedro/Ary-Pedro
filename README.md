@@ -182,15 +182,22 @@
 <details> 
   <summary><h2>📊 Estatísticas e Atividades</h2></summary>
 
+
 <h3>💻 Estatísticas do Perfil GitHub</h3>
 
+<!-- Estatísticas gerais do GitHub -->
 <a href="https://github.com/Ary-Pedro"><img alt="Estatísticas do GitHub de Ary-Pedro" src="https://github-readme-stats.vercel.app/api/?username=Ary-Pedro&show_icons=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a><a href="https://github.com/Ary-Pedro"><img alt="Principais Linguagens de Ary-Pedro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary-Pedro&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens presentes nos meus projetos públicos e não refletem necessariamente o nível de experiência ou habilidade.
 
+<!-- Gráfico de atividade do GitHub -->
 <a href="https://github.com/Ary-Pedro"><img alt="Gráfico de Atividade de Ary-Pedro" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ary-Pedro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<h3>📊 Contribuições no Último Ano</h3>
+
+<!-- Jogo da cobrinha exibido abaixo -->
+<a href="https://github.com/Ary-Pedro"><img alt="Snake Game" src="https://github-readme-streak-stats.herokuapp.com/?user=Ary-Pedro&theme=dracula&hide_border=true" /></a>
 </details>
 
 ### Github Profile Views
