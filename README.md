@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Ary-Pedro">
-<img src="https://raw.githubusercontent.com/Ary-Pedro/svg/refs/heads/main/assets/name.svg?token=GHSAT0AAAAAAC3H2VNIIZEIQXOOYM5YWRC6Z5EX2ZA">
+  <a href="https://raw.githubusercontent.com/Ary-Pedro/svg/refs/heads/main/assets/name.svg?token=GHSAT0AAAAAAC3H2VNJYL7NRVVZUHZ5ULBYZ5E2RMA">
 
 <!-- credit for Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
