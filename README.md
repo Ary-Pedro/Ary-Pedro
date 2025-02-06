@@ -198,11 +198,11 @@
 <a href="https://github.com/Ary-Pedro"><img alt="Snake Game" src="https://github-readme-streak-stats.herokuapp.com/?user=Ary-Pedro&theme=dracula&hide_border=true" /></a>
 </details>
 
-![Snake animation](https://github.com/Ary-pedro/Ary-pedro/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <p align="center">
-  <img src="https://github.com/Ary-pedro/Ary-pedro/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+  <img src="https://github.com/Ary-Pedro/Ary-Pedro/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 
