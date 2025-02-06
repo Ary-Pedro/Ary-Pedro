@@ -17,7 +17,8 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # A branch para armazenar os arquivos
-          build_dir: dist  # O diretório com os arquivos gerados
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         GITHUB_TOKEN_PERMISSIONS: write
