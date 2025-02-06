@@ -1,0 +1,32 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # A cada 12 horas
+  workflow_dispatch:  # Para acionar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Passo 1: Gerar o jogo da cobrinha SVG
+      - name: Generate GitHub contribution grid snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Ary-pedro
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Passo 2: Fazer push do arquivo gerado para a branch 'output'
+      - name: Push snake game to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # A branch para armazenar os arquivos
+          build_dir: dist  # O diretório com os arquivos gerados
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
