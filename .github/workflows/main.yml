@@ -25,7 +25,9 @@ jobs:
           npm install
           npm run generate -- --github-user-name Ary-pedro --output dist/github-contribution-grid-snake.svg
 
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          target_branch: output
+          build_dir: dist
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN  }}
