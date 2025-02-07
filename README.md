@@ -196,7 +196,6 @@
 
 <h3>📊 Contribuições no Último Ano</h3>
 
-<a href="https://github.com/Ary-Pedro"><img alt="Snake Game" src="https://github-readme-streak-stats.herokuapp.com/?user=Ary-Pedro&theme=dracula&hide_border=true" /></a>
 
 <!--- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid --->
 <p align="center">
