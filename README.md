@@ -141,14 +141,15 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="pythonanywhere" src="https://img.shields.io/badge/pythonAnyWhere-000000.svg?logo=pythonanywhere&logoColor=white"></a>
       <a href="#"><img alt="infinityfree" src="https://img.shields.io/badge/infinityfree-430098.svg?logo=gitconnected&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white"></a>
+ 
   </p>
   
 
 <h3>💻 Software and Tools</h3>
 
   <p>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white"></a> 
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="olhama meta" src="https://img.shields.io/badge/olhama meta-08217A?logo=meta&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
