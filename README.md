@@ -1,4 +1,5 @@
 
+
 <div style="text-align: center;">
   <img style="display: inline-block; max-width: 100%; height: auto;" src="https://ary-pedro.github.io/svg/assets/Index.svg">
 </div>
@@ -163,7 +164,10 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="jetbrains" src="https://img.shields.io/badge/Jet%20brains-A000A0.svg?logo=jetbrains&logoColor=white"></a>
       <a href="#"><img alt="pycharm" src="https://img.shields.io/badge/pycharm-141E24.svg?logo=pycharm&logoColor=white"></a>
-      <a href="#"><img alt="pycharm" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
+     <a href="#"><img alt="eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>  
+    <a href="#"><img alt="power_bi" src="https://img.shields.io/badge/power_bi-F2C811.svg?logo=pycharm&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346.svg?logo=pycharm&logoColor=white"></a>
+     <a href="#"><img alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A.svg?logo=pycharm&logoColor=white"></a>
       <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
       <a href="#"><img alt="chromecast" src="https://img.shields.io/badge/Remote%20Desktop-0000F0.svg?logo=chromecast&logoColor=white"></a>
       <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?logo=figma&logoColor=white"></a>
