@@ -142,6 +142,8 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="pythonanywhere" src="https://img.shields.io/badge/pythonAnyWhere-000000.svg?logo=pythonanywhere&logoColor=white"></a>
       <a href="#"><img alt="infinityfree" src="https://img.shields.io/badge/infinityfree-430098.svg?logo=gitconnected&logoColor=white"></a>
+     <a href="#"><img alt="netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=white"></a>
+      
  
   </p>
   
