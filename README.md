@@ -16,7 +16,7 @@
 <!-- Social -->
 <a style="display: inline-block; max-width: 100%; height: auto;" href="https://www.linkedin.com/in/pedro-cézar-s-de-souza/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="#meusite"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+<a href="#https://portfoliopedro-gilt.vercel.app/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 ![](https://visitcount.itsvg.in/api?id=Ary-Pedro&label=Visitantes%20-%20GitHub&color=11&icon=5&pretty=true)
 
