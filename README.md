@@ -229,4 +229,7 @@
 
 
 ### Github Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{Ary-Pedro}/count.svg)
+![](https://komarev.com/ghpvc/?username=Ary-Pedro&color=ff69b4)
+
+<!--- Caiu a lib! 
+ ![Visitor Count](https://profile-counter.glitch.me/{Ary-Pedro}/count.svg) --->
