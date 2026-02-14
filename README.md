@@ -203,8 +203,21 @@
 <h3>💻 Estatísticas do Perfil GitHub</h3>
 
 <!-- Estatísticas gerais do GitHub -->
-<a href="https://github.com/Ary-Pedro"><img alt="Estatísticas do GitHub de Ary-Pedro" src="https://github-readme-stats.vercel.app/api/?username=Ary-Pedro&show_icons=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a><a href="https://github.com/Ary-Pedro"><img alt="Principais Linguagens de Ary-Pedro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary-Pedro&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
+<a href="https://github.com/Ary-Pedro">
+  <img
+    alt="Estatísticas do GitHub de Ary-Pedro"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ary-Pedro&show_icons=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=86400"
+    height="192px"
+  />
+</a>
+<a href="https://github.com/Ary-Pedro">
+  <img
+    alt="Principais Linguagens de Ary-Pedro"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=Ary-Pedro&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&cache_seconds=86400"
+    height="192px"
+  />
+</a>
+<br />
 
 <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens presentes nos meus projetos públicos e não refletem necessariamente o nível de experiência ou habilidade.
 
