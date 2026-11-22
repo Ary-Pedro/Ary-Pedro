@@ -23,22 +23,19 @@
 <!-- Cards vinculados : https://shields.io/badges --->
 <details open> 
   <summary><h2>📕 Projects </h2></summary>
-
-
   <p align="left">
-  <a href="https://github.com/Ary-Pedro/Projeto-AbapRJ"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Projeto-AbapRJ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
-  <a href="https://github.com/Ary-Pedro/Sistema-vendas-Deaaz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-vendas-Deaaz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="autônomo"></a> 
-  <a href="https://github.com/Ary-Pedro/Setup_Django_pratica"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Setup_Django_pratica&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Prática"></a> 
-    
-  <a href="https://github.com/Ary-Pedro/Manipulador-de-Imagem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Manipulador-de-Imagem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
-  <a href="https://github.com/Ary-Pedro/Sistema-academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="AcademiaCrud"></a>
-
-  
-  <a href="https://github.com/Ary-Pedro/adams42-withServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=adams42-withServer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="AcademiaCrud"></a> 
-  <a href="https://github.com/Ary-Pedro/Adams42-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Adams42-front&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="AcademiaCrud"></a>
-
-
-<a href="https://replit.com/@PedroCezar2"><img alt="Minha caminhada" title="All Practice" src="https://custom-icon-badges.demolab.com/badge/-The%20Road%20So%20Far-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/Ary-Pedro/Sistema-vendas-Deaaz"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-vendas-Deaaz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="autônomo"></a>
+    <a href="https://github.com/Ary-Pedro/Portfolio"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Portfolio"></a>
+    <a href="https://github.com/Ary-Pedro/adams42-withServer"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=adams42-withServer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Adams42 Server"></a>
+    <br><br>
+    <a href="https://github.com/Ary-Pedro/Adams42-front"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Adams42-front&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Adams42 Front"></a>
+    <a href="https://github.com/Ary-Pedro/Projeto-AbapRJ"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Projeto-AbapRJ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Ong"></a>
+    <a href="https://github.com/Ary-Pedro/Setup_Django_pratica"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Setup_Django_pratica&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Prática"></a>
+    <br><br>
+    <a href="https://github.com/Ary-Pedro/Manipulador-de-Imagem"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Manipulador-de-Imagem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="PhotoEffect"></a>
+    <a href="https://github.com/Ary-Pedro/Sistema-academia"><img align="top" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AcademiaCrud"></a>
+    <br><br>
+    <a href="https://replit.com/@PedroCezar2"><img alt="Minha caminhada" title="All Practice" src="https://custom-icon-badges.demolab.com/badge/-The%20Road%20So%20Far-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
 
