@@ -15,7 +15,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://portfoliopedro-gilt.vercel.app/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<img src="https://komarev.com/ghpvc/?username=Ary-Pedro&label=Visitantes%20-%20GitHub&color=F78A8A&style=flat" alt="Visitantes" />
 
 <!-- Cards vinculados : https://shields.io/badges --->
 <details open> 
